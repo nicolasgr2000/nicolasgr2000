@@ -48,5 +48,3 @@ I’m a results-driven engineer with **10+ years of experience** building high-p
 When I’m not coding, you’ll probably find me **gaming, reading literature, or enjoying a good movie**.
 
 ---
-Fun fact: ...
--->
