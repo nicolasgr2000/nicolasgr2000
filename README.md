@@ -39,7 +39,7 @@ I’m a results-driven engineer with **10+ years of experience** building high-p
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/nicolasguaneme)  
+- **LinkedIn:** [linkedin.com/in/nicolasguaneme(https://linkedin.com/in/nicolasguaneme)  
 - **GitHub:** [github.com/nicolasgr2000](https://github.com/nicolasgr2000)  
 
 ---
